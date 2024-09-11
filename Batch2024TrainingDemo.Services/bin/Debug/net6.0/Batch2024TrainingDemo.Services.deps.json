@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Batch2024TrainingDemo.Services/1.0.0": {
+        "dependencies": {
+          "Batch2024TrainingDemo.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Batch2024TrainingDemo.Services.dll": {}
+        }
+      },
+      "Batch2024TrainingDemo.Contracts/1.0.0": {
+        "runtime": {
+          "Batch2024TrainingDemo.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Batch2024TrainingDemo.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Batch2024TrainingDemo.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

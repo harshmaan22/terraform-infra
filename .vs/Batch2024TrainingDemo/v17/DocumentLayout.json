@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Batch2024TrainingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291CA887-4F27-4088-B3D3-9079AC73FB01}|Batch2024TrainingDemo.Contracts\\Batch2024TrainingDemo.Contracts.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.contracts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291CA887-4F27-4088-B3D3-9079AC73FB01}|Batch2024TrainingDemo.Contracts\\Batch2024TrainingDemo.Contracts.csproj|solutionrelative:batch2024trainingdemo.contracts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291CA887-4F27-4088-B3D3-9079AC73FB01}|Batch2024TrainingDemo.Contracts\\Batch2024TrainingDemo.Contracts.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.contracts\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291CA887-4F27-4088-B3D3-9079AC73FB01}|Batch2024TrainingDemo.Contracts\\Batch2024TrainingDemo.Contracts.csproj|solutionrelative:batch2024trainingdemo.contracts\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64892A6F-166C-4BF1-B6E7-F799B1309189}|Batch2024TrainingDemo.API\\Batch2024TrainingDemo.API.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64892A6F-166C-4BF1-B6E7-F799B1309189}|Batch2024TrainingDemo.API\\Batch2024TrainingDemo.API.csproj|solutionrelative:batch2024trainingdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB9DDA7-3768-4CEF-A1CC-F3C78F482DC1}|Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB9DDA7-3768-4CEF-A1CC-F3C78F482DC1}|Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj|solutionrelative:batch2024trainingdemo.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB9DDA7-3768-4CEF-A1CC-F3C78F482DC1}|Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB9DDA7-3768-4CEF-A1CC-F3C78F482DC1}|Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj|solutionrelative:batch2024trainingdemo.services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64892A6F-166C-4BF1-B6E7-F799B1309189}|Batch2024TrainingDemo.API\\Batch2024TrainingDemo.API.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64892A6F-166C-4BF1-B6E7-F799B1309189}|Batch2024TrainingDemo.API\\Batch2024TrainingDemo.API.csproj|solutionrelative:batch2024trainingdemo.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64892A6F-166C-4BF1-B6E7-F799B1309189}|Batch2024TrainingDemo.API\\Batch2024TrainingDemo.API.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64892A6F-166C-4BF1-B6E7-F799B1309189}|Batch2024TrainingDemo.API\\Batch2024TrainingDemo.API.csproj|solutionrelative:batch2024trainingdemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB9DDA7-3768-4CEF-A1CC-F3C78F482DC1}|Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj|d:\\batch2024trainingdemo\\batch2024trainingdemo.services\\batch2024trainingdemo.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BB9DDA7-3768-4CEF-A1CC-F3C78F482DC1}|Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj|solutionrelative:batch2024trainingdemo.services\\batch2024trainingdemo.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.API\\Program.cs",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.API\\Program.cs",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.API\\Program.cs",
+              "RelativeToolTip": "Batch2024TrainingDemo.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:07:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Batch2024TrainingDemo.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:07:51.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.Services\\IMovieService.cs",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Services\\IMovieService.cs",
+              "RelativeToolTip": "Batch2024TrainingDemo.Services\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:15:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Contracts\\User.cs",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.Contracts\\User.cs",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Contracts\\User.cs",
+              "RelativeToolTip": "Batch2024TrainingDemo.Contracts\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:05:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.Services\\MovieService.cs",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Services\\MovieService.cs",
+              "RelativeToolTip": "Batch2024TrainingDemo.Services\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:09:46.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Batch2024TrainingDemo.Services.csproj",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj",
+              "RelativeToolTip": "Batch2024TrainingDemo.Services\\Batch2024TrainingDemo.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T06:13:15.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Contracts\\Movie.cs",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.Contracts\\Movie.cs",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.Contracts\\Movie.cs",
+              "RelativeToolTip": "Batch2024TrainingDemo.Contracts\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:05:48.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Batch2024TrainingDemo.API\\appsettings.json",
+              "ToolTip": "D:\\Batch2024TrainingDemo\\Batch2024TrainingDemo.API\\appsettings.json",
+              "RelativeToolTip": "Batch2024TrainingDemo.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T11:07:07.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAAMBAAAAIAAAAADYvwsBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-30T06:16:51.406Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

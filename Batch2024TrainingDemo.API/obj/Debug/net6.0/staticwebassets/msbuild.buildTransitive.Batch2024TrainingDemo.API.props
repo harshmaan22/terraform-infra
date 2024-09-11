@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Batch2024TrainingDemo.API.props" />
+</Project>
